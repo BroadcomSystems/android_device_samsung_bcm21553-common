@@ -169,7 +169,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 ## Graphics density
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=160
+    ro.sf.lcd_density=120
 
 # Memory
 PRODUCT_PROPERTY_OVERRIDES += \
